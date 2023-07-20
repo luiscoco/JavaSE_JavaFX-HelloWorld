@@ -1,5 +1,7 @@
 # JavaSE_JavaFX-HelloWorld
 
+## How to create a new JavaFX application
+
 1. Run InteliJ IDEA.
 
 ![image](https://github.com/luiscoco/JavaSE_JavaFX-HelloWorld/assets/32194879/7e8e07e3-ab98-4f36-bc9b-5a3be7882902)
@@ -12,20 +14,17 @@
 
 ![image](https://github.com/luiscoco/JavaSE_JavaFX-HelloWorld/assets/32194879/32efeb19-99a1-4949-bd3e-61c9979acf1c)
 
-3. afsa
+## Application source code
+
+### 
+
+
+### 
+
+
+
+### 
 
 
 
 
-4. afasdf
-
-
-5. asfdasdf
-
-
-
-6. asdfasdf
-
-
-   
-7. 
