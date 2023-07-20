@@ -94,5 +94,12 @@ public class HelloController {
 </VBox>
 ```
 
+## How to run the JavaFX application
+
+To run the application just open the HelloApplication.java file and press the Run button. 
+
+You will see the following output window.
+
+![image](https://github.com/luiscoco/JavaSE_JavaFX-HelloWorld/assets/32194879/bae9e0e2-23ce-4d4c-84c2-defdd4d53e9f)
 
 
