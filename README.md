@@ -17,6 +17,12 @@
 ## Application source code
 
 ### HelloApplication.java
+With this l
+```java
+FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
+```
+
+
 
 ```java
 package com.sample1.sample1;
